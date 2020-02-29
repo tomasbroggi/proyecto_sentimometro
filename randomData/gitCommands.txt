@@ -14,6 +14,8 @@ COMANDOS
  git checkout -- nomnreDeArchivo.extension para volver el archivo para atras
  git diff para ver las diferencias hechas en los archivos
  git log para listar los commit
+ git push -u origin master para subirlo a github.
+
  
  
  
