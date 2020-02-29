@@ -1,0 +1,25 @@
+projectV3_01
+req.body.nombre para guardarlo en el type del form, que es name=nombre
+req.body  para guardarlo en el type del form, que es name=apellido
+17.22 va a formulario.handllebars...17.41 señala lo de post/alta...18.00 vuelve a app.js y señala el app.post
+20.40 va a app.get('"listado etcetcetc")... 29.40 a a listado.handlebars
+33.00 va a listado.handlebars
+33.30 va a google
+35.00 va a listado y agrega el href
+42.30 hace el app.get('/borrar/:id', function(req, res)
+45.15 creacion del editar
+
+projectV3_02
+Edicion
+03.30 hace el app.get('/editar) etcetc
+ 
+8.00 res.redner en vez del res.send asi se muestra en formulario
+8:40 en listado.handlebars
+08.41 cuando dice el problema esta aca es la linea 1 del formulario.handlebars (NO LO GRABE, PERO LO SACO Y LISTO)
+COPIO EL codigo del app.get('editar blabla para IMPLEMETNAR el editar con app.POST)
+app.post('/editar/:id')
+12.09 hacer validacion para que pida por lo menos que haya llenado un dato (nombre obligatorio por ej)
+24.00 en formulario.hsb agregar lo que falta para que aprezca el error el error
+
+projectV3_03
+En app.post('/editar') le pega el IF validador que creó anteriormente

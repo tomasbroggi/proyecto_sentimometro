@@ -1,0 +1,19 @@
+h1  {
+    color: green;
+    }
+.resaltado{ /* se refereca con . antes del resaltado es para referirse a esa class*/
+    font-weight: bold;
+    color: green;
+    }   
+#principal{ /*se referencia con # al ser ID solo va a ser ese elemento, no como class que pueden ser varios*/
+            color: orange;
+          }
+body{
+    background: white;
+}
+table{
+    border-left: red;
+}
+th{
+    background-left: green;
+}
