@@ -1,0 +1,25 @@
+projectV3_02
+req.body.nombre para guardarlo en el type del form, que es name=nombre
+req.body.apellido para guardarno en el type del form,  que es name=apellido
+17.22 va a formulario.handllebars...17.41 señala lo de post/alta...18.00 vuelve a app.js y señala el app.post
+20.40 va a app.get("listado etcetcetc")...29.40 a a listado.handlebars
+33.00 va a listado.handlebars
+33.30 va google
+35.00 va a listado y agrega el href
+42.30 hace el app.get('/borrar/:id'), function(req, res)
+45.15 creacion del editar
+
+projectV3_02
+03.30 HACE EL app.get('/editar) etcetc
+ 
+08.00 res.render en vez del res.send asi se muestra en formulario
+08:40 en listado.handlebars
+08.40 
+08.41 cuando dice el problema esta aca es la linea 1 del formulario.handlebars (NO LO GRABE, PERO LO SACO Y LISTO)
+Copio el codigo del app.get('editar blabla para IMPLEMETNAR el editar con app.post)
+app.post('/editar/:id')
+12.09 hacer validación para que pida por lo menos que llene un dato (nombre obligatorio por ej)
+24.00 en formulario.hsb agregar lo que falta para que aprezca el error el error
+
+projectV3_03
+En el app.pos de editar le pega el IF anterior para validar que ingrese como minimo un dato (nombre ogligatorio por ej)
