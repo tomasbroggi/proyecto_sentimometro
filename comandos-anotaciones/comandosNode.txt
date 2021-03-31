@@ -1,6 +1,0 @@
-npm init -y (para crear el package .json)
-npm install --save express
-npm install --save mongoose
-Instalar el nodemon
-npm install -g nodemon
-nodemon app.js

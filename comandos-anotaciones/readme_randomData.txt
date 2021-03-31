@@ -1,1 +1,0 @@
-Documentacion informal de tips/codigo y/o clases para ser consultado.

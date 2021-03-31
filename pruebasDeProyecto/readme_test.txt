@@ -1,1 +1,0 @@
-Variaciones de proyecto a presentar para fácil accceso mas allá de los commits.
